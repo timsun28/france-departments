@@ -1,0 +1,547 @@
+[
+  {
+    "code": "01",
+    "name": "Ain",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Ain_(d%C3%A9partement)"
+  },
+  {
+    "code": "02",
+    "name": "Aisne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)"
+  },
+  {
+    "code": "03",
+    "name": "Allier",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Allier_(d%C3%A9partement)"
+  },
+  {
+    "code": "04",
+    "name": "Alpes-de-Haute-Provence",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Alpes-de-Haute-Provence"
+  },
+  {
+    "code": "05",
+    "name": "Hautes-Alpes",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Hautes-Alpes"
+  },
+  {
+    "code": "06",
+    "name": "Alpes-Maritimes",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Alpes-Maritimes"
+  },
+  {
+    "code": "07",
+    "name": "Ardèche",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Ard%C3%A8che_(d%C3%A9partement)"
+  },
+  {
+    "code": "08",
+    "name": "Ardennes",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Ardennes_(d%C3%A9partement)"
+  },
+  {
+    "code": "09",
+    "name": "Ariège",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Ari%C3%A8ge_(d%C3%A9partement)"
+  },
+  {
+    "code": "10",
+    "name": "Aube",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Aube_(d%C3%A9partement)"
+  },
+  {
+    "code": "11",
+    "name": "Aude",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Aude_(d%C3%A9partement)"
+  },
+  {
+    "code": "12",
+    "name": "Aveyron",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Aveyron_(d%C3%A9partement)"
+  },
+  {
+    "code": "13",
+    "name": "Bouches-du-Rhône",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Bouches-du-Rh%C3%B4ne"
+  },
+  {
+    "code": "14",
+    "name": "Calvados",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Calvados_(d%C3%A9partement)"
+  },
+  {
+    "code": "15",
+    "name": "Cantal",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Cantal_(d%C3%A9partement)"
+  },
+  {
+    "code": "16",
+    "name": "Charente",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Charente_(d%C3%A9partement)"
+  },
+  {
+    "code": "17",
+    "name": "Charente-Maritime",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Charente-Maritime"
+  },
+  {
+    "code": "18",
+    "name": "Cher",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Cher_(d%C3%A9partement)"
+  },
+  {
+    "code": "19",
+    "name": "Corrèze",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Corr%C3%A8ze_(d%C3%A9partement)"
+  },
+  {
+    "code": "21",
+    "name": "Côte-d'Or",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/C%C3%B4te-d%27Or"
+  },
+  {
+    "code": "22",
+    "name": "Côtes-d'Armor",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/C%C3%B4tes-d%27Armor"
+  },
+  {
+    "code": "23",
+    "name": "Creuse",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Creuse_(d%C3%A9partement)"
+  },
+  {
+    "code": "24",
+    "name": "Dordogne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Dordogne_(d%C3%A9partement)"
+  },
+  {
+    "code": "25",
+    "name": "Doubs",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Doubs_(d%C3%A9partement)"
+  },
+  {
+    "code": "26",
+    "name": "Drôme",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Dr%C3%B4me_(d%C3%A9partement)"
+  },
+  {
+    "code": "27",
+    "name": "Eure",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Eure_(d%C3%A9partement)"
+  },
+  {
+    "code": "28",
+    "name": "Eure-et-Loir",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Eure-et-Loir"
+  },
+  {
+    "code": "29",
+    "name": "Finistère",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Finist%C3%A8re"
+  },
+  {
+    "code": "2A",
+    "name": "Corse-du-Sud",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Corse-du-Sud"
+  },
+  {
+    "code": "2B",
+    "name": "Haute-Corse",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Haute-Corse"
+  },
+  {
+    "code": "30",
+    "name": "Gard",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Gard"
+  },
+  {
+    "code": "31",
+    "name": "Haute-Garonne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Haute-Garonne"
+  },
+  {
+    "code": "32",
+    "name": "Gers",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Gers_(d%C3%A9partement)"
+  },
+  {
+    "code": "33",
+    "name": "Gironde",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Gironde_(d%C3%A9partement)"
+  },
+  {
+    "code": "34",
+    "name": "Hérault",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/H%C3%A9rault_(d%C3%A9partement)"
+  },
+  {
+    "code": "35",
+    "name": "Ille-et-Vilaine",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Ille-et-Vilaine"
+  },
+  {
+    "code": "36",
+    "name": "Indre",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Indre_(d%C3%A9partement)"
+  },
+  {
+    "code": "37",
+    "name": "Indre-et-Loire",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Indre-et-Loire"
+  },
+  {
+    "code": "38",
+    "name": "Isère",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Is%C3%A8re_(d%C3%A9partement)"
+  },
+  {
+    "code": "39",
+    "name": "Jura",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Jura_(d%C3%A9partement)"
+  },
+  {
+    "code": "40",
+    "name": "Landes",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Landes_(d%C3%A9partement)"
+  },
+  {
+    "code": "41",
+    "name": "Loir-et-Cher",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Loir-et-Cher"
+  },
+  {
+    "code": "42",
+    "name": "Loire",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Loire_(d%C3%A9partement)"
+  },
+  {
+    "code": "43",
+    "name": "Haute-Loire",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Haute-Loire"
+  },
+  {
+    "code": "44",
+    "name": "Loire-Atlantique",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Loire-Atlantique"
+  },
+  {
+    "code": "45",
+    "name": "Loiret",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Loiret_(d%C3%A9partement)"
+  },
+  {
+    "code": "46",
+    "name": "Lot",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Lot_(d%C3%A9partement)"
+  },
+  {
+    "code": "47",
+    "name": "Lot-et-Garonne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Lot-et-Garonne"
+  },
+  {
+    "code": "48",
+    "name": "Lozère",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Loz%C3%A8re_(d%C3%A9partement)"
+  },
+  {
+    "code": "49",
+    "name": "Maine-et-Loire",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Maine-et-Loire"
+  },
+  {
+    "code": "50",
+    "name": "Manche",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Manche_(d%C3%A9partement)"
+  },
+  {
+    "code": "51",
+    "name": "Marne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Marne_(d%C3%A9partement)"
+  },
+  {
+    "code": "52",
+    "name": "Haute-Marne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Haute-Marne"
+  },
+  {
+    "code": "53",
+    "name": "Mayenne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Mayenne_(d%C3%A9partement)"
+  },
+  {
+    "code": "54",
+    "name": "Meurthe-et-Moselle",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Meurthe-et-Moselle"
+  },
+  {
+    "code": "55",
+    "name": "Meuse",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Meuse_(d%C3%A9partement)"
+  },
+  {
+    "code": "56",
+    "name": "Morbihan",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Morbihan"
+  },
+  {
+    "code": "57",
+    "name": "Moselle",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Moselle_(d%C3%A9partement)"
+  },
+  {
+    "code": "58",
+    "name": "Nièvre",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Ni%C3%A8vre_(d%C3%A9partement)"
+  },
+  {
+    "code": "59",
+    "name": "Nord",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Nord_(d%C3%A9partement_fran%C3%A7ais)"
+  },
+  {
+    "code": "60",
+    "name": "Oise",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Oise_(d%C3%A9partement)"
+  },
+  {
+    "code": "61",
+    "name": "Orne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)"
+  },
+  {
+    "code": "62",
+    "name": "Pas-de-Calais",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Pas-de-Calais"
+  },
+  {
+    "code": "63",
+    "name": "Puy-de-Dôme",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Puy-de-D%C3%B4me"
+  },
+  {
+    "code": "64",
+    "name": "Pyrénées-Atlantiques",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Atlantiques"
+  },
+  {
+    "code": "65",
+    "name": "Hautes-Pyrénées",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Hautes-Pyr%C3%A9n%C3%A9es"
+  },
+  {
+    "code": "66",
+    "name": "Pyrénées-Orientales",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Orientales"
+  },
+  {
+    "code": "67",
+    "name": "Bas-Rhin",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Bas-Rhin"
+  },
+  {
+    "code": "68",
+    "name": "Haut-Rhin",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Haut-Rhin"
+  },
+  {
+    "code": "69",
+    "name": "Rhône",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Circonscription_d%C3%A9partementale_du_Rh%C3%B4ne"
+  },
+  {
+    "code": "70",
+    "name": "Haute-Saône",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Haute-Sa%C3%B4ne"
+  },
+  {
+    "code": "71",
+    "name": "Saône-et-Loire",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Sa%C3%B4ne-et-Loire"
+  },
+  {
+    "code": "72",
+    "name": "Sarthe",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Sarthe_(d%C3%A9partement)"
+  },
+  {
+    "code": "73",
+    "name": "Savoie",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Savoie_(d%C3%A9partement)"
+  },
+  {
+    "code": "74",
+    "name": "Haute-Savoie",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Haute-Savoie"
+  },
+  {
+    "code": "75",
+    "name": "Paris",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Paris"
+  },
+  {
+    "code": "76",
+    "name": "Seine-Maritime",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Seine-Maritime"
+  },
+  {
+    "code": "77",
+    "name": "Seine-et-Marne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Seine-et-Marne"
+  },
+  {
+    "code": "78",
+    "name": "Yvelines",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Yvelines"
+  },
+  {
+    "code": "79",
+    "name": "Deux-Sèvres",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Deux-S%C3%A8vres"
+  },
+  {
+    "code": "80",
+    "name": "Somme",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Somme_(d%C3%A9partement)"
+  },
+  {
+    "code": "81",
+    "name": "Tarn",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Tarn_(d%C3%A9partement)"
+  },
+  {
+    "code": "82",
+    "name": "Tarn-et-Garonne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Tarn-et-Garonne"
+  },
+  {
+    "code": "83",
+    "name": "Var",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Var_(d%C3%A9partement)"
+  },
+  {
+    "code": "84",
+    "name": "Vaucluse",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Vaucluse_(d%C3%A9partement)"
+  },
+  {
+    "code": "85",
+    "name": "Vendée",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Vend%C3%A9e_(d%C3%A9partement)"
+  },
+  {
+    "code": "86",
+    "name": "Vienne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Vienne_(d%C3%A9partement)"
+  },
+  {
+    "code": "87",
+    "name": "Haute-Vienne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Haute-Vienne"
+  },
+  {
+    "code": "88",
+    "name": "Vosges",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Vosges_(d%C3%A9partement)"
+  },
+  {
+    "code": "89",
+    "name": "Yonne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Yonne_(d%C3%A9partement)"
+  },
+  {
+    "code": "90",
+    "name": "Territoire de Belfort",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Territoire_de_Belfort"
+  },
+  {
+    "code": "91",
+    "name": "Essonne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Essonne_(d%C3%A9partement)"
+  },
+  {
+    "code": "92",
+    "name": "Hauts-de-Seine",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Hauts-de-Seine"
+  },
+  {
+    "code": "93",
+    "name": "Seine-Saint-Denis",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Seine-Saint-Denis"
+  },
+  {
+    "code": "94",
+    "name": "Val-de-Marne",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Val-de-Marne"
+  },
+  {
+    "code": "95",
+    "name": "Val-d'Oise",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Val-d%27Oise"
+  },
+  {
+    "code": "971",
+    "name": "Guadeloupe",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Guadeloupe"
+  },
+  {
+    "code": "972",
+    "name": "Martinique",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Martinique"
+  },
+  {
+    "code": "973",
+    "name": "Guyane",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Guyane"
+  },
+  {
+    "code": "974",
+    "name": "La Réunion",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/La_R%C3%A9union"
+  },
+  {
+    "code": "976",
+    "name": "Mayotte",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Mayotte"
+  },
+  {
+    "code": "975",
+    "name": "Saint-Pierre-et-Miquelon",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon"
+  },
+  {
+    "code": "977",
+    "name": "Saint-Barthélemy",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Saint-Barth%C3%A9lemy"
+  },
+  {
+    "code": "978",
+    "name": "Saint-Martin",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Saint-Martin"
+  },
+  {
+    "code": "984",
+    "name": "Terres australes et antarctiques françaises",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Terres%20australes%20et%20antarctiques%20fran%C3%A7aises"
+  },
+  {
+    "code": "986",
+    "name": "Wallis et Futuna",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Wallis%20et%20Futuna"
+  },
+  {
+    "code": "987",
+    "name": "Polynésie française",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Polyn%C3%A9sie%20fran%C3%A7aise"
+  },
+  {
+    "code": "988",
+    "name": "Nouvelle-Calédonie",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/Nouvelle-Cal%C3%A9donie"
+  },
+  {
+    "code": "989",
+    "name": "Île de Clipperton",
+    "wikiUrl": "https://fr.wikipedia.org/wiki/%C3%8Ele%20de%20Clipperton"
+  }
+]
